@@ -1,0 +1,1 @@
+files contains molecular name, descriptors of variable no. of columns either as binary or floating values, final 7 columns contains activities as Delta agonists, Kappa agonists, Mu agonists, Delta antagonists, Kappa antagonists, Mu antagonists ( activity recorded as 0 for inactive, 1 for unsure, and 2 for active) and final column of smiles code for the molecule. 
